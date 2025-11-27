@@ -1,4 +1,4 @@
-# Stability-Analysis-using-Polar-Plot
+<img width="896" height="1232" alt="image" src="https://github.com/user-attachments/assets/7f4cf7da-34c8-4005-8e56-ba6e58753be1" /># Stability-Analysis-using-Polar-Plot
 ## Aim:
 To analyse the stability of the system having open loop transfer function, G(S)=10/(S(1+0.5S)(1+0.2S)) using polar plot and verify it using MATLAB. 
 ## Apparatus Required:
@@ -44,9 +44,9 @@ end<br>
 
 
 ## Result:
-Thus the polar plot for the given transfer function was drawn and verified using MATLAB.
-Gain margin = 0.7
-Phase Margin = -8.88
-Gain crossover frequency = 3.75
-Phase crossover frequency = 3.16
-The system is unstable
+Thus the polar plot for the given transfer function was drawn and verified using MATLAB<br>
+Gain margin = 0.7<br>
+Phase Margin = -8.88<br>
+Gain crossover frequency = 3.75<br>
+Phase crossover frequency = 3.16<br>
+The system is unstable<br>

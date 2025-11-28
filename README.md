@@ -1,4 +1,4 @@
-<img width="896" height="1232" alt="image" src="https://github.com/user-attachments/assets/7f4cf7da-34c8-4005-8e56-ba6e58753be1" /># Stability-Analysis-using-Polar-Plot
+
 ## Aim:
 To analyse the stability of the system having open loop transfer function, G(S)=10/(S(1+0.5S)(1+0.2S)) using polar plot and verify it using MATLAB. 
 ## Apparatus Required:
